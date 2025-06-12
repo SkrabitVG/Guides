@@ -26,7 +26,7 @@
     },
     {
       "name": "9volt",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -35,7 +35,7 @@
     },
     {
       "name": "GJM",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -44,7 +44,7 @@
     },
     {
       "name": "Kaleido",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -53,7 +53,7 @@
     },
     {
       "name": "Kantai",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -62,7 +62,7 @@
     },
     {
       "name": "SobsPlease",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -71,7 +71,7 @@
     },
     {
       "name": "Some-Stuffs",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {

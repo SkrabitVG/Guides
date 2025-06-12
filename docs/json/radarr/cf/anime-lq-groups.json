@@ -8,7 +8,7 @@
   "specifications": [
     {
       "name": "$tore-Chill",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -17,7 +17,7 @@
     },
     {
       "name": "0neshot",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -26,7 +26,7 @@
     },
     {
       "name": "224",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -35,7 +35,7 @@
     },
     {
       "name": "A-Destiny",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -44,7 +44,7 @@
     },
     {
       "name": "AceAres",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -53,7 +53,7 @@
     },
     {
       "name": "AhmadDev",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -62,7 +62,7 @@
     },
     {
       "name": "Anime Chap",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -71,7 +71,7 @@
     },
     {
       "name": "Anime Land",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -80,7 +80,7 @@
     },
     {
       "name": "Anime Time",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -89,7 +89,7 @@
     },
     {
       "name": "AnimeDynastyEN",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -98,7 +98,7 @@
     },
     {
       "name": "AnimeKuro",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -107,7 +107,7 @@
     },
     {
       "name": "AnimeRG",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -116,7 +116,7 @@
     },
     {
       "name": "Animesubs",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -125,7 +125,7 @@
     },
     {
       "name": "AnimeTR",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -134,7 +134,7 @@
     },
     {
       "name": "Anitsu",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -143,7 +143,7 @@
     },
     {
       "name": "AniVoid",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -152,7 +152,7 @@
     },
     {
       "name": "ArataEnc",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -161,7 +161,7 @@
     },
     {
       "name": "AREY",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -170,7 +170,7 @@
     },
     {
       "name": "Ari",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -179,7 +179,7 @@
     },
     {
       "name": "ASW",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -188,7 +188,7 @@
     },
     {
       "name": "BJX",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -197,7 +197,7 @@
     },
     {
       "name": "BlackLuster",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -206,7 +206,7 @@
     },
     {
       "name": "bonkai77",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -215,7 +215,7 @@
     },
     {
       "name": "CameEsp",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -224,7 +224,7 @@
     },
     {
       "name": "Cat66",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -233,7 +233,7 @@
     },
     {
       "name": "CBB",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -242,7 +242,7 @@
     },
     {
       "name": "Cerberus",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -251,7 +251,7 @@
     },
     {
       "name": "Cleo",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -260,7 +260,7 @@
     },
     {
       "name": "CuaP",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -269,7 +269,7 @@
     },
     {
       "name": "DaddySubs",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -278,7 +278,7 @@
     },
     {
       "name": "DARKFLiX",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -287,7 +287,7 @@
     },
     {
       "name": "DB",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -296,7 +296,7 @@
     },
     {
       "name": "DBArabic",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -305,7 +305,7 @@
     },
     {
       "name": "Deadmau- RAWS",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -314,7 +314,7 @@
     },
     {
       "name": "DKB",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -323,7 +323,7 @@
     },
     {
       "name": "DP",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -332,7 +332,7 @@
     },
     {
       "name": "DsunS",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -341,7 +341,7 @@
     },
     {
       "name": "Emmid",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -350,7 +350,7 @@
     },
     {
       "name": "ExREN",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -359,7 +359,7 @@
     },
     {
       "name": "FAV",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -368,7 +368,7 @@
     },
     {
       "name": "Fish",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -377,7 +377,7 @@
     },
     {
       "name": "FunArts",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -386,7 +386,7 @@
     },
     {
       "name": "GERMini",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -395,7 +395,7 @@
     },
     {
       "name": "Hakata Ramen",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -404,7 +404,7 @@
     },
     {
       "name": "Hall_of_C",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -413,7 +413,7 @@
     },
     {
       "name": "Hatsuyuki",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -422,7 +422,7 @@
     },
     {
       "name": "HAV1T",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -431,7 +431,7 @@
     },
     {
       "name": "HENiL",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -440,7 +440,7 @@
     },
     {
       "name": "Hitoku",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -449,7 +449,7 @@
     },
     {
       "name": "HollowRoxas",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -458,7 +458,7 @@
     },
     {
       "name": "HR",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -467,7 +467,7 @@
     },
     {
       "name": "ICEBLUE",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -476,7 +476,7 @@
     },
     {
       "name": "iPUNISHER",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -485,7 +485,7 @@
     },
     {
       "name": "JacobSwaggedUp",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -494,7 +494,7 @@
     },
     {
       "name": "Johnny-englishsubs",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -503,7 +503,7 @@
     },
     {
       "name": "Kallango",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -512,7 +512,7 @@
     },
     {
       "name": "Kanjouteki",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -521,7 +521,7 @@
     },
     {
       "name": "KEKMASTERS",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -530,7 +530,7 @@
     },
     {
       "name": "Kirion",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -539,7 +539,7 @@
     },
     {
       "name": "KQRM",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -548,7 +548,7 @@
     },
     {
       "name": "KRP",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -557,7 +557,7 @@
     },
     {
       "name": "LoliHouse",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -566,7 +566,7 @@
     },
     {
       "name": "M@nI",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -575,7 +575,7 @@
     },
     {
       "name": "mal lu zen",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -584,7 +584,7 @@
     },
     {
       "name": "Man.K",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -593,7 +593,7 @@
     },
     {
       "name": "Maximus",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -602,7 +602,7 @@
     },
     {
       "name": "MD",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -611,7 +611,7 @@
     },
     {
       "name": "mdcx",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -620,7 +620,7 @@
     },
     {
       "name": "Metaljerk",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -629,7 +629,7 @@
     },
     {
       "name": "MGD",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -638,7 +638,7 @@
     },
     {
       "name": "MiniFreeza",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -647,7 +647,7 @@
     },
     {
       "name": "MiniMTBB",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -656,7 +656,7 @@
     },
     {
       "name": "MinisCuba",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -665,7 +665,7 @@
     },
     {
       "name": "MiniTheatre",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -674,7 +674,7 @@
     },
     {
       "name": "Mites",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -683,7 +683,7 @@
     },
     {
       "name": "Modders Bay",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -692,7 +692,7 @@
     },
     {
       "name": "Mr. Deadpool",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -701,7 +701,7 @@
     },
     {
       "name": "NemDiggers",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -710,7 +710,7 @@
     },
     {
       "name": "neoHEVC",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -719,7 +719,7 @@
     },
     {
       "name": "Nokou",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -728,7 +728,7 @@
     },
     {
       "name": "NoobSubs",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -737,7 +737,7 @@
     },
     {
       "name": "NS",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -746,7 +746,7 @@
     },
     {
       "name": "Nyanpasu",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -755,7 +755,7 @@
     },
     {
       "name": "OldCastle",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -764,7 +764,7 @@
     },
     {
       "name": "Pantsu",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -773,7 +773,7 @@
     },
     {
       "name": "Pao",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -782,7 +782,7 @@
     },
     {
       "name": "phazer11",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -791,7 +791,7 @@
     },
     {
       "name": "Pixel",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -800,7 +800,7 @@
     },
     {
       "name": "Plex Friendly",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -809,7 +809,7 @@
     },
     {
       "name": "PnPSubs",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -818,7 +818,7 @@
     },
     {
       "name": "Polarwindz",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -827,7 +827,7 @@
     },
     {
       "name": "Project-gxs",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -836,7 +836,7 @@
     },
     {
       "name": "PuyaSubs",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -845,7 +845,7 @@
     },
     {
       "name": "QaS",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -854,7 +854,7 @@
     },
     {
       "name": "QCE",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -863,7 +863,7 @@
     },
     {
       "name": "Rando235",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -872,7 +872,7 @@
     },
     {
       "name": "Ranger",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -881,7 +881,7 @@
     },
     {
       "name": "Rapta",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -890,7 +890,7 @@
     },
     {
       "name": "Raw Files",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -899,7 +899,7 @@
     },
     {
       "name": "Raze",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -908,7 +908,7 @@
     },
     {
       "name": "Reaktor",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -917,7 +917,7 @@
     },
     {
       "name": "RightShiftBy2",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -926,7 +926,7 @@
     },
     {
       "name": "Rip Time",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -935,7 +935,7 @@
     },
     {
       "name": "SAD",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -944,7 +944,7 @@
     },
     {
       "name": "Salieri",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -953,7 +953,7 @@
     },
     {
       "name": "Samir755",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -962,7 +962,7 @@
     },
     {
       "name": "SanKyuu",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -971,7 +971,7 @@
     },
     {
       "name": "SEiN",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -980,7 +980,7 @@
     },
     {
       "name": "sekkusu&ok",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -989,7 +989,7 @@
     },
     {
       "name": "SHFS",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -998,7 +998,7 @@
     },
     {
       "name": "shincaps",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1007,7 +1007,7 @@
     },
     {
       "name": "SLAX",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1016,7 +1016,7 @@
     },
     {
       "name": "Sokudo",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1025,7 +1025,7 @@
     },
     {
       "name": "SRW",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1034,7 +1034,7 @@
     },
     {
       "name": "SSA",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1043,7 +1043,7 @@
     },
     {
       "name": "StrayGods",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1052,7 +1052,7 @@
     },
     {
       "name": "Suki Desu",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1061,7 +1061,7 @@
     },
     {
       "name": "TeamTurquoize",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1070,7 +1070,7 @@
     },
     {
       "name": "Tenrai Sensei",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1079,7 +1079,7 @@
     },
     {
       "name": "TnF",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1088,7 +1088,7 @@
     },
     {
       "name": "TOPKEK",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1097,7 +1097,7 @@
     },
     {
       "name": "Trix",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1106,7 +1106,7 @@
     },
     {
       "name": "U3-Web",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1115,7 +1115,7 @@
     },
     {
       "name": "UNBIASED",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1124,7 +1124,7 @@
     },
     {
       "name": "uP",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1133,7 +1133,7 @@
     },
     {
       "name": "USD",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1142,7 +1142,7 @@
     },
     {
       "name": "Valenciano",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1151,7 +1151,7 @@
     },
     {
       "name": "VipapkStudios",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1160,7 +1160,7 @@
     },
     {
       "name": "Wardevil",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1169,7 +1169,7 @@
     },
     {
       "name": "WtF Anime",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1178,7 +1178,7 @@
     },
     {
       "name": "xiao-av1",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1187,7 +1187,7 @@
     },
     {
       "name": "Yabai_Desu_NeRandomRemux",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1196,7 +1196,7 @@
     },
     {
       "name": "YakuboEncodes",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1205,7 +1205,7 @@
     },
     {
       "name": "youshikibi",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1214,7 +1214,7 @@
     },
     {
       "name": "YuiSubs",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1223,7 +1223,7 @@
     },
     {
       "name": "Yun",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -1232,7 +1232,7 @@
     },
     {
       "name": "zza",
-      "implementation": "ReleaseTitleSpecification",
+      "implementation": "ReleaseGroupSpecification",
       "negate": false,
       "required": false,
       "fields": {
