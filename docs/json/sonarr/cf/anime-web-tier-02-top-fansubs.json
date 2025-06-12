@@ -35,7 +35,7 @@
     },
     {
       "name": "0x539",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -44,7 +44,7 @@
     },
     {
       "name": "Asakura",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -53,7 +53,7 @@
     },
     {
       "name": "Cyan",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -62,7 +62,7 @@
     },
     {
       "name": "Dae",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -71,7 +71,7 @@
     },
     {
       "name": "Foxtrot",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -80,7 +80,7 @@
     },
     {
       "name": "Gao",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -89,7 +89,7 @@
     },
     {
       "name": "GSK_kun",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -98,7 +98,7 @@
     },
     {
       "name": "Half-Baked",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -107,7 +107,7 @@
     },
     {
       "name": "HatSubs",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -116,7 +116,7 @@
     },
     {
       "name": "MALD",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -125,7 +125,7 @@
     },
     {
       "name": "MTBB",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -134,7 +134,7 @@
     },
     {
       "name": "Not-Vodes",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -143,7 +143,7 @@
     },
     {
       "name": "Okay-Subs",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -152,7 +152,7 @@
     },
     {
       "name": "Pizza",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -161,7 +161,7 @@
     },
     {
       "name": "Reza",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -170,7 +170,7 @@
     },
     {
       "name": "Slyfox",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -179,7 +179,7 @@
     },
     {
       "name": "SoLCE",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -188,7 +188,7 @@
     },
     {
       "name": "Tenshi",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {

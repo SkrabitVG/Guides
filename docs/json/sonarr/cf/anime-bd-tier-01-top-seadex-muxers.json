@@ -7,35 +7,8 @@
   "includeCustomFormatWhenRenaming": false,
   "specifications": [
     {
-      "name": "Bluray",
-      "implementation": "SourceSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": 6
-      }
-    },
-    {
-      "name": "Bluray Remux",
-      "implementation": "SourceSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": 7
-      }
-    },
-    {
-      "name": "DVD",
-      "implementation": "SourceSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": 5
-      }
-    },
-    {
       "name": "Aergia",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -44,7 +17,7 @@
     },
     {
       "name": "Arg0",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -53,7 +26,7 @@
     },
     {
       "name": "Legion",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -62,7 +35,7 @@
     },
     {
       "name": "LYS1TH3A",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -71,7 +44,7 @@
     },
     {
       "name": "OZR",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -80,7 +53,7 @@
     },
     {
       "name": "sam",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -89,7 +62,7 @@
     },
     {
       "name": "SCY",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -98,7 +71,7 @@
     },
     {
       "name": "smol",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -107,7 +80,7 @@
     },
     {
       "name": "SoM",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -116,7 +89,7 @@
     },
     {
       "name": "Vanilla",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -125,7 +98,7 @@
     },
     {
       "name": "Vodes",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -134,7 +107,7 @@
     },
     {
       "name": "ZeroBuild",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {

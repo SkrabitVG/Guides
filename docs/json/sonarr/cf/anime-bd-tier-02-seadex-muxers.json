@@ -7,35 +7,8 @@
   "includeCustomFormatWhenRenaming": false,
   "specifications": [
     {
-      "name": "Bluray",
-      "implementation": "SourceSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": 6
-      }
-    },
-    {
-      "name": "Bluray Remux",
-      "implementation": "SourceSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": 7
-      }
-    },
-    {
-      "name": "DVD",
-      "implementation": "SourceSpecification",
-      "negate": false,
-      "required": false,
-      "fields": {
-        "value": 5
-      }
-    },
-    {
       "name": "0x539",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -44,7 +17,7 @@
     },
     {
       "name": "Alt",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -53,7 +26,7 @@
     },
     {
       "name": "ARC",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -62,7 +35,7 @@
     },
     {
       "name": "Arid",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -71,7 +44,7 @@
     },
     {
       "name": "aro",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -80,7 +53,7 @@
     },
     {
       "name": "Baws",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -89,7 +62,7 @@
     },
     {
       "name": "BKC",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -98,7 +71,7 @@
     },
     {
       "name": "Brrrrrrr",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -107,7 +80,7 @@
     },
     {
       "name": "Chotab",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -116,7 +89,7 @@
     },
     {
       "name": "Crow",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -125,7 +98,7 @@
     },
     {
       "name": "CsS",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -134,7 +107,7 @@
     },
     {
       "name": "CUNNY",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -143,7 +116,7 @@
     },
     {
       "name": "Cunnysseur",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -152,7 +125,7 @@
     },
     {
       "name": "D-Z0N3",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -161,7 +134,7 @@
     },
     {
       "name": "Dae",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -170,7 +143,7 @@
     },
     {
       "name": "Datte13",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -179,7 +152,7 @@
     },
     {
       "name": "DemiHuman",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -188,7 +161,7 @@
     },
     {
       "name": "Drag",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -197,7 +170,7 @@
     },
     {
       "name": "FLFL",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -206,7 +179,7 @@
     },
     {
       "name": "hydes",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -215,7 +188,7 @@
     },
     {
       "name": "iKaos",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -224,7 +197,7 @@
     },
     {
       "name": "JySzE",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -233,7 +206,7 @@
     },
     {
       "name": "LostYears",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -242,7 +215,7 @@
     },
     {
       "name": "Lulu",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -251,7 +224,7 @@
     },
     {
       "name": "Matsya",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -260,7 +233,7 @@
     },
     {
       "name": "MC",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -269,7 +242,7 @@
     },
     {
       "name": "McBalls",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -278,7 +251,7 @@
     },
     {
       "name": "Metal",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -287,7 +260,7 @@
     },
     {
       "name": "Moxie",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -296,7 +269,7 @@
     },
     {
       "name": "MTBB",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -305,7 +278,7 @@
     },
     {
       "name": "Not-Vodes",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -314,7 +287,7 @@
     },
     {
       "name": "Noyr",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -323,7 +296,7 @@
     },
     {
       "name": "NSDAB",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -332,7 +305,7 @@
     },
     {
       "name": "Okay-Subs",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -341,7 +314,7 @@
     },
     {
       "name": "pog42",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -350,7 +323,7 @@
     },
     {
       "name": "pyroneko",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -359,7 +332,7 @@
     },
     {
       "name": "RAI",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -368,7 +341,7 @@
     },
     {
       "name": "Reza",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -377,7 +350,7 @@
     },
     {
       "name": "Shimatta",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -386,7 +359,7 @@
     },
     {
       "name": "Smoke",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -395,7 +368,7 @@
     },
     {
       "name": "Spirale",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -404,7 +377,7 @@
     },
     {
       "name": "Thighs",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -413,7 +386,7 @@
     },
     {
       "name": "UDF",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
@@ -422,7 +395,7 @@
     },
     {
       "name": "Yuki",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
